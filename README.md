@@ -1,6 +1,6 @@
 # Vlad DX
 
-<img width="200" height="200" src="./docs/img/vlad-dx-200x200.jpg" style="margin: 10px 30px 20px 0; float: left;" />
+<!-- <img width="200" height="200" src="./docs/img/vlad-dx-200x200.jpg" style="margin: 10px 30px 20px 0; float: left;" /> -->
 
 [LinkedIn Profile](https://www.linkedin.com/in/vladimirserykh)
 
