@@ -34,6 +34,8 @@ Fun fact: dealing with computers for about 28 years.
 
 #### Xtz.StronglyTyped
 
+[Xtz.StronglyTyped repository](https://github.com/dev-experience/Xtz.StronglyTyped)
+
 ![GitHub](https://img.shields.io/github/license/dev-experience/Xtz.StronglyTyped)
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/dev-experience/Xtz.StronglyTyped/main)
 
