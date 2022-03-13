@@ -20,6 +20,7 @@ Fun fact: dealing with computers for about 29 years.
 [![Microsoft Certified Trainer (2020-2021)](./docs/img/microsoft-certified-trainer-2020-2021.png)](https://www.credly.com/badges/768a6dde-7b40-4bdb-b73c-1dd89f519576)
 [![Microsoft Certified: Azure Developer Associate](./docs/img/azure-developer-associate.png)](https://www.credly.com/badges/89a8e155-f63d-4a87-81a0-e5c9dfea2010)
 [![Microsoft Certified: Azure Fundamentals](./docs/img/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/14b5b142-7160-4cba-a226-74afa7fbcc2b)
+[![Microsoft Certified: Azure Data Fundamentals](./docs/img/azure-data-fundamentals.png)](https://www.credly.com/badges/53c69171-4d22-4e7d-b99d-daf25d858566)
 [![MCSA: Web Applications - Certified 2016](./docs/img/mcsa-web-applications-certified-2016.png)](https://www.credly.com/badges/2455b07d-fe29-4e80-96a2-32d88c3b84fb)
 [![Exam 486: Developing ASP.NET MVC Web Applications](./docs/img/exam-486-developing-asp-net-mvc-web-applications.png)](https://www.credly.com/badges/c30aca54-dd2c-46ad-b382-09db51789091)
 [![Exam 480: Programming in HTML5 with JavaScript and CSS3](./docs/img/exam-480-programming-in-html5-with-javascript-and-css3.png)](https://www.credly.com/badges/01bd792c-f6c2-42d1-b0d4-73e5bd543994)
