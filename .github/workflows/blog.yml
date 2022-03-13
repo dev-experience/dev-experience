@@ -1,0 +1,24 @@
+name: Build and Publish
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+
+      - name: Install and Build 🔧
+        run: |
+          cd blog
+          npm install
+          npm run build
+
+      - name: Publish 📰
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: blog-github-pages
+          folder: blog/src/.vuepress/dist
+          token: ${{ secrets.BLOG_GITHUB_PAGES_TOKEN }}
