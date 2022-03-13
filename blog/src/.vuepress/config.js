@@ -9,7 +9,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
-  base: process.env.NODE_ENV === "production" ? "/dev-experience/" : "/",
+  base: process.env.NODE_ENV === "development" ? "/" : "/dev-experience/",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
