@@ -1,0 +1,19 @@
+{
+  "name": "dev-experience-blog",
+  "version": "0.0.1",
+  "description": "Vlad DX | Blog",
+  "main": "index.js",
+  "authors": {
+    "name": "Vlad DX",
+    "email": "vlad.dev.experience@gmail.com"
+  },
+  "repository": "https://github.com/dev-experience/dev-experience/dev-experience-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "CC BY-NC-SA",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
