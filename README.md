@@ -18,11 +18,13 @@ Mentoring: conducted 190h+ of sessions since 2015.
 
 ## Certifications
 
+[![Microsoft Certified: DevOps Engineer Expert](./docs/img/azure-devops-engineer-expert.png)](https://www.credly.com/earner/earned/badge/5d9eb99f-a72b-4b4d-bd04-f860fdd4bed1)
 [![Microsoft Certified: Azure Solutions Architect Expert](./docs/img/azure-solutions-architect-expert.png)](https://www.credly.com/badges/d25799c3-f984-4aac-b01f-e5c2bce9517b)
-[![Microsoft Certified: Azure Administrator Associate](./docs/img/azure-administrator-associate.png)](https://www.credly.com/badges/a5f2ebcf-9f31-43da-89d3-b40cff861e40)
 [![Microsoft Certified: Identity and Access Administrator Associate](./docs/img/identity-access-administrator-associate.png)](https://www.credly.com/badges/c1ba651e-f9ad-4b38-b395-023ae9c33067)
+[![Microsoft Certified: Azure Administrator Associate](./docs/img/azure-administrator-associate.png)](https://www.credly.com/badges/a5f2ebcf-9f31-43da-89d3-b40cff861e40)
 [![Microsoft Certified: Azure Developer Associate](./docs/img/azure-developer-associate.png)](https://www.credly.com/badges/89a8e155-f63d-4a87-81a0-e5c9dfea2010)
 <br />
+![Microsoft Certified Trainer (2023-2024)](./docs/img/microsoft-certified-trainer-2023-2024.png)
 [![Microsoft Certified Trainer (2022-2023)](./docs/img/microsoft-certified-trainer-2022-2023.png)](https://www.credly.com/badges/c7a0c625-7613-4ca7-8b92-061ea7e12488)
 [![Microsoft Certified Trainer (2021-2022)](./docs/img/microsoft-certified-trainer-2021-2022.png)](https://www.credly.com/badges/f07b1add-fb69-4c75-b30c-81484150a79c)
 [![Microsoft Certified Trainer (2020-2021)](./docs/img/microsoft-certified-trainer-2020-2021.png)](https://www.credly.com/badges/768a6dde-7b40-4bdb-b73c-1dd89f519576)
@@ -31,6 +33,8 @@ Mentoring: conducted 190h+ of sessions since 2015.
 [![Microsoft Certified: Power Platform Fundamentals](./docs/img/power-platform-fundamentals.png)](https://www.credly.com/badges/a07d21bb-ecdc-466e-8cc5-3696c82643bc)
 [![Microsoft Certified: Azure Data Fundamentals](./docs/img/azure-data-fundamentals.png)](https://www.credly.com/badges/53c69171-4d22-4e7d-b99d-daf25d858566)
 [![Microsoft Certified: Azure Fundamentals](./docs/img/azure-fundamentals.png)](https://www.credly.com/badges/14b5b142-7160-4cba-a226-74afa7fbcc2b)
+<br />
+[![The Open Group Certified: ArchiMate® 3 Foundation](./docs/img/archimate-3.png)](https://www.credly.com/badges/39457c66-1509-415c-9bb9-e6192d3789a7)
 <br />
 [![MCSA: Web Applications - Certified 2016](./docs/img/mcsa-web-applications-certified-2016.png)](https://www.credly.com/badges/2455b07d-fe29-4e80-96a2-32d88c3b84fb)
 [![Exam 486: Developing ASP.NET MVC Web Applications](./docs/img/exam-486-developing-asp-net-mvc-web-applications.png)](https://www.credly.com/badges/c30aca54-dd2c-46ad-b382-09db51789091)
